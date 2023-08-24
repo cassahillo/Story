@@ -1,3 +1,8 @@
+
+' comandos git
+https://www.davidam.com/docu/crear-repositorio-git-servidor.html
+
+
 sdfasdfasdfasdf
 sadfasdfasdfasdfasdf
-hello chalaquin
+hello chalaquingit 
